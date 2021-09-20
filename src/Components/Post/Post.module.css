@@ -1,0 +1,14 @@
+.Post{
+    width: 1280px;
+    height: 1995px;
+    margin: 0 auto;
+    border: 3px solid black;
+}
+
+.sort{
+    height: 35px;
+    border: 2px solid red;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
+}
