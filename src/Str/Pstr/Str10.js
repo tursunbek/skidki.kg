@@ -1,16 +1,16 @@
 import React from "react";
 import Header from "../../Components/Header/Header";
-import Description from "../../Components/Description/Description";
+import Account from "../../Components/Account/Account";
 
-class Ystr extends React.Component{
+class Str10 extends React.Component{
     render() {
-        return(
+        return (
             <>
                 <Header/>
-                <Description/>
+                <Account/>
             </>
         )
     }
 }
 
-export default Ystr;
+export default Str10;

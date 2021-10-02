@@ -1,0 +1,62 @@
+.Post{
+    width: 1280px;
+    height: 1195px;
+    margin: 0 auto;
+}
+
+.gg{
+    width: 301px;
+    height: 33px;
+    background-color: white;
+}
+
+.catalog{
+    width: 1280px;
+    height: 47px;
+    display: flex;
+}
+
+.catalog_left{
+    width: 301px;
+    height: 47px;
+    margin-top: 0px;
+    background-color: #5080fd;
+    padding-top: 5px;
+}
+
+.catalog_left p{
+    font-weight: bold;
+    font-size: 23px;
+    margin-top: 1px;
+    margin-left: 30px;
+    color: white;
+}
+
+.description{
+    width: 1280px;
+    height: 965px;
+    display: flex;
+}
+
+.description_text{
+    width: 301px;
+    height: 1090px;
+    background-color: #E9E9E9;
+}
+
+.description_text a{
+    display: block;
+    text-decoration: none;
+    margin-left: 45px;
+    color: #474545;
+}
+
+.description_text p{
+    margin-top: 4px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    font-weight: 500;
+}
+
+
+

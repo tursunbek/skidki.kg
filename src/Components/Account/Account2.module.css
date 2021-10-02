@@ -1,0 +1,118 @@
+.account{
+    width: 1113px;
+    height:1680px ;
+    margin: 0 auto;
+}
+
+.personal_account{
+    width: 1113px;
+    height: 75px;
+    display: flex;
+    margin-top: 43px;
+}
+
+.personal_account button{
+    height: 40px;
+    color: white;
+    background-color: #2881FF;
+    border-radius: 5px;
+    border: 1px solid #2881FF;
+    margin-left: 700px;
+    margin-top: 15px;
+}
+
+.personal_account p{
+    font-weight: bold;
+    border-bottom:2px solid red ;
+    width: 270px;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.button{
+    width: 630px;
+    padding: 20px 0px;
+    border: 1px solid #68CEF8;
+    border-radius:5px;
+    background-color: #68CEF8;
+    margin-left: 250px;
+    margin-top: 25px;
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+    text-align: center;
+}
+
+.button span{
+    color: red;
+}
+
+.account_name{
+    width: 633px;
+    height:1223px ;
+    margin-left: 240px;
+    margin-top: 25px;
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.account_name div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 55px;
+    width: 632px;
+}
+
+.account_name input{
+
+}
+
+.padding{
+    padding: 15px 200px 15px 0px;
+    font-weight: bold;
+}
+
+.padding2{
+    padding: 15px 10px 15px 0px;
+    font-weight: bold;
+}
+
+.padding3{
+    padding: 5px 10px 5px 0px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+    color: black;
+}
+
+.account_name p{
+    color: #474545;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,8 +1,9 @@
 import React from "react";
 import Header from "../../Components/Header/Header";
+import Post1 from "../../Components/Posts/Post1";
 import Description from "../../Components/Description/Description";
 
-class Ystr extends React.Component{
+class Str7 extends React.Component{
     render() {
         return(
             <>
@@ -13,4 +14,4 @@ class Ystr extends React.Component{
     }
 }
 
-export default Ystr;
+export default Str7;

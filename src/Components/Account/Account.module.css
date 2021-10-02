@@ -1,0 +1,84 @@
+.account{
+    width: 1113px;
+    height:557px ;
+    margin: 0 auto;
+}
+
+.personal_account{
+    width: 1113px;
+    height: 75px;
+    display: flex;
+    margin-top: 43px;
+}
+
+.personal_account button{
+    height: 40px;
+    color: white;
+    background-color: #2881FF;
+    border-radius: 5px;
+    border: 1px solid #2881FF;
+    margin-left: 700px;
+    margin-top: 15px;
+}
+
+.personal_account p{
+    font-weight: bold;
+    border-bottom:2px solid red ;
+    width: 270px;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.account_name{
+    width: 647px;
+    height: 369px;
+    margin-top: 43px;
+    margin-left: 220px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left_block{
+    width: 253px;
+    height: 365px;
+    color: #474545;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    text-align: left;
+}
+
+.p1{
+    margin-left: 20px;
+}
+
+.p2{
+    margin-left: 202px;
+}
+
+.p3{
+    margin-left: 30px;
+}
+
+.p4{
+    margin-left: 53px;
+}
+
+.p5{
+    margin-left: 130px;
+}
+
+.right_block{
+    width: 368px;
+    height: 365px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+}
+
+.right_block input{
+    display: block;
+    padding: 8px 190px 8px 0px;
+    font-weight: bold;
+}
